@@ -4,3 +4,5 @@ pytesseract
 pillow
 scipy
 textblob
+streamlit
+opencv-python-headless
